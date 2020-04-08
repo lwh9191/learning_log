@@ -4,6 +4,13 @@
     <list default="true" id="327d8958-3fed-4879-b6b9-d6fcc705536e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/learning_log/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/learning_log/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning_logs/base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning_logs/edit_entry.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning_logs/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning_logs/new_entry.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning_logs/new_topic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning_logs/topic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning_logs/topics.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
