@@ -137,7 +137,7 @@ if os.getcwd() == '/app':
     SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
 
     #支持的所有的主机头（host headed）
-    ALLOWED_HOSTS = ('https://learning-log-94470.herokuapp.com/')
+    ALLOWED_HOSTS = ('*')
 
     DEBUG = False
 
