@@ -137,7 +137,7 @@ if os.getcwd() == '/app':
     SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
 
     #支持的所有的主机头（host headed）
-    ALLOWED_HOSTS = ('https://limitless-oasis-42607.herokuapp.com/')
+    ALLOWED_HOSTS = ('*')
 
     #静态资产配置
     BASE_DIR = os.path.dirname(os.path.abspath(__file__))
